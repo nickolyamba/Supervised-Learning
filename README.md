@@ -11,12 +11,14 @@
  - Decision Trees
  - Boosted Decision Trees
  - ANN
+
 Bash Scripts require a certain pre-created folder structure for the data input and output. This structure can be found in bash variables at the top of the each file.
 
 
 2) Models computed using Scikit-Learn:
  - KNN
  - SVM
+
 The code also requires installed libraries such as numpy, matplotlib, pandas, sklearn. [Anaconda](https://www.continuum.io/downloads) and [Spyder](https://github.com/spyder-ide/spyder) were also used for the development.
 
 
