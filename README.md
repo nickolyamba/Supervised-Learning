@@ -12,7 +12,7 @@
  - Boosted Decision Trees
  - ANN
 
-Bash Scripts require a certain pre-created folder structure for the data input and output. This structure can be found in bash variables at the top of the each file.
+Bash Scripts require a certain pre-created folder structure for the data input and output. This structure can be found in bash variables at the top of each script file and can be customized.
 
 
 2) Models computed using Scikit-Learn:
