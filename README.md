@@ -19,6 +19,6 @@ Bash Scripts require a certain pre-created folder structure for the data input a
  - KNN
  - SVM
 
-The code also requires installed libraries such as numpy, matplotlib, pandas, sklearn. [Anaconda](https://www.continuum.io/downloads) and [Spyder](https://github.com/spyder-ide/spyder) were also used for the development.
+The code also requires the following libraries: numpy, matplotlib, pandas, and sklearn.
 
 
