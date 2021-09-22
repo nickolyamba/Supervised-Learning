@@ -7,18 +7,18 @@
 2. [White Wine Quality](https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
 
 
-1) Models computed using WEKA CLI and Linux Bash scripts:
+Models computed using WEKA CLI:
  - Decision Trees
  - Boosted Decision Trees
  - ANN
 
-Bash Scripts requires a certain pre-created folder structure for the data input and output. This structure can be found in bash variables at the top of each script. Adjust the listed paths to fit your needs.
-
-
-2) Models computed using Scikit-Learn:
+Models computed using Scikit-Learn:
  - KNN
  - SVM
 
-The code also requires the following libraries: numpy, matplotlib, pandas, and sklearn.
+
+Notes
+- Bash scripts require specific paths for the data input and output. See these paths defined in the beginning of each script
+- Dependencies: numpy, matplotlib, pandas, and sklearn
 
 
